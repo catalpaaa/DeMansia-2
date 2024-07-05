@@ -1,0 +1,23 @@
+name: vision-mamba-2
+channels:
+  - nvidia
+  - pytorch
+dependencies:
+  - cccl
+  - cuda-toolkit=12.*
+  - cmake
+  - einops
+  - gcc=12.*
+  - gxx=12.*
+  - ipykernel
+  - ipywidgets
+  - lightning
+  - make
+  - python=3.12.*
+  - pytorch
+  - pytorch-cuda=12.1
+  - scipy
+  - timm
+  - torchaudio
+  - torchvision
+  - wandb

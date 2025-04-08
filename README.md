@@ -25,7 +25,7 @@ Currently, only DeMansia 2 Tiny is available. We will release more models as opp
 |-----------------|------------|----------------|----------------|------------|-------|-------|------------|-----------------------|-----------------|
 | DeMansia 2 Tiny | 192        | 24             | 9.5M           | 224²       | 79.5% | 94.4% | 1024       | [link][tiny download] | [log][tiny log] |
 
-[tiny download]: https://archive.org/details/DeMansia-2-Tiny
+[tiny download]: https://archive.org/download/DeMansia-2/DeMansia%202%20Tiny%20EMA.ckpt
 [tiny log]: https://wandb.ai/catalpa/DeMansia%202%20Tiny/runs/5pip6hjg
 
 ## Training and inferencing
